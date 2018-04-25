@@ -1,0 +1,552 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/">
+    <z:Collection rdf:about="#collection_472">
+       <dc:title>A.note</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_473">
+        <dc:title>B.Paper</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_480"/>
+        <dcterms:hasPart rdf:resource="#collection_482"/>
+        <dcterms:hasPart rdf:resource="#collection_484"/>
+        <dcterms:hasPart rdf:resource="#collection_483"/>
+        <dcterms:hasPart rdf:resource="#collection_481"/>
+        <dcterms:hasPart rdf:resource="#collection_485"/>
+        <dcterms:hasPart rdf:resource="#collection_486"/>
+        <dcterms:hasPart rdf:resource="#collection_487"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_480">
+        <dc:title>1.Author</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_558"/>
+        <dcterms:hasPart rdf:resource="#collection_554"/>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.Author</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_558"/>
+        <dcterms:hasPart rdf:resource="#collection_554"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_558">
+        <dc:title>Simon</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>Simon</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>Simon</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_554">
+        <dc:title>Stanovich</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>Stanovich</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>Stanovich</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_482">
+        <dc:title>2.Journal</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_533"/>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.Journal</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_533"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_533">
+        <dc:title>top20-artificialintelligence</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_534"/>
+        <dcterms:hasPart rdf:resource="#collection_535"/>
+        <dcterms:hasPart rdf:resource="#collection_536"/>
+        <dcterms:hasPart rdf:resource="#collection_537"/>
+        <dcterms:hasPart rdf:resource="#collection_538"/>
+        <dcterms:hasPart rdf:resource="#collection_539"/>
+        <dcterms:hasPart rdf:resource="#collection_540"/>
+        <dcterms:hasPart rdf:resource="#collection_541"/>
+        <dcterms:hasPart rdf:resource="#collection_542"/>
+        <dcterms:hasPart rdf:resource="#collection_543"/>
+        <dcterms:hasPart rdf:resource="#collection_544"/>
+        <dcterms:hasPart rdf:resource="#collection_545"/>
+        <dcterms:hasPart rdf:resource="#collection_546"/>
+        <dcterms:hasPart rdf:resource="#collection_547"/>
+        <dcterms:hasPart rdf:resource="#collection_548"/>
+        <dcterms:hasPart rdf:resource="#collection_549"/>
+        <dcterms:hasPart rdf:resource="#collection_550"/>
+        <dcterms:hasPart rdf:resource="#collection_551"/>
+        <dcterms:hasPart rdf:resource="#collection_552"/>
+        <dcterms:hasPart rdf:resource="#collection_553"/>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>top20-artificialintelligence</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_534"/>
+        <dcterms:hasPart rdf:resource="#collection_535"/>
+        <dcterms:hasPart rdf:resource="#collection_536"/>
+        <dcterms:hasPart rdf:resource="#collection_537"/>
+        <dcterms:hasPart rdf:resource="#collection_538"/>
+        <dcterms:hasPart rdf:resource="#collection_539"/>
+        <dcterms:hasPart rdf:resource="#collection_540"/>
+        <dcterms:hasPart rdf:resource="#collection_541"/>
+        <dcterms:hasPart rdf:resource="#collection_542"/>
+        <dcterms:hasPart rdf:resource="#collection_543"/>
+        <dcterms:hasPart rdf:resource="#collection_544"/>
+        <dcterms:hasPart rdf:resource="#collection_545"/>
+        <dcterms:hasPart rdf:resource="#collection_546"/>
+        <dcterms:hasPart rdf:resource="#collection_547"/>
+        <dcterms:hasPart rdf:resource="#collection_548"/>
+        <dcterms:hasPart rdf:resource="#collection_549"/>
+        <dcterms:hasPart rdf:resource="#collection_550"/>
+        <dcterms:hasPart rdf:resource="#collection_551"/>
+        <dcterms:hasPart rdf:resource="#collection_552"/>
+        <dcterms:hasPart rdf:resource="#collection_553"/>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>top20-artificialintelligence</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_534"/>
+        <dcterms:hasPart rdf:resource="#collection_535"/>
+        <dcterms:hasPart rdf:resource="#collection_536"/>
+        <dcterms:hasPart rdf:resource="#collection_537"/>
+        <dcterms:hasPart rdf:resource="#collection_538"/>
+        <dcterms:hasPart rdf:resource="#collection_539"/>
+        <dcterms:hasPart rdf:resource="#collection_540"/>
+        <dcterms:hasPart rdf:resource="#collection_541"/>
+        <dcterms:hasPart rdf:resource="#collection_542"/>
+        <dcterms:hasPart rdf:resource="#collection_543"/>
+        <dcterms:hasPart rdf:resource="#collection_544"/>
+        <dcterms:hasPart rdf:resource="#collection_545"/>
+        <dcterms:hasPart rdf:resource="#collection_546"/>
+        <dcterms:hasPart rdf:resource="#collection_547"/>
+        <dcterms:hasPart rdf:resource="#collection_548"/>
+        <dcterms:hasPart rdf:resource="#collection_549"/>
+        <dcterms:hasPart rdf:resource="#collection_550"/>
+        <dcterms:hasPart rdf:resource="#collection_551"/>
+        <dcterms:hasPart rdf:resource="#collection_552"/>
+        <dcterms:hasPart rdf:resource="#collection_553"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_534">
+        <dc:title>1.arXiv Learning (cs.LG)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.arXiv Learning (cs.LG)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.arXiv Learning (cs.LG)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.arXiv Learning (cs.LG)</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_535">
+        <dc:title>2.	Neural Information Processing Systems (NIPS)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.	Neural Information Processing Systems (NIPS)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.	Neural Information Processing Systems (NIPS)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.	Neural Information Processing Systems (NIPS)</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_536">
+        <dc:title>3.	Expert Systems with Applications</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.	Expert Systems with Applications</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.	Expert Systems with Applications</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.	Expert Systems with Applications</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_537">
+        <dc:title>4.	International Conference on Machine Learning (ICML)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.	International Conference on Machine Learning (ICML)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.	International Conference on Machine Learning (ICML)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.	International Conference on Machine Learning (ICML)</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_538">
+        <dc:title>5.	arXiv Machine Learning (stat.ML)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.	arXiv Machine Learning (stat.ML)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.	arXiv Machine Learning (stat.ML)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.	arXiv Machine Learning (stat.ML)</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_539">
+        <dc:title>6.IEEE Transactions on Neural Networks and Learning Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>6.IEEE Transactions on Neural Networks and Learning Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>6.IEEE Transactions on Neural Networks and Learning Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>6.IEEE Transactions on Neural Networks and Learning Systems</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_540">
+        <dc:title>7.The Journal of Machine Learning Research</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>7.The Journal of Machine Learning Research</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>7.The Journal of Machine Learning Research</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>7.The Journal of Machine Learning Research</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_541">
+        <dc:title>8.IEEE Transactions On Systems, Man And Cybernetics Part B, Cybernetics</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>8.IEEE Transactions On Systems, Man And Cybernetics Part B, Cybernetics</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>8.IEEE Transactions On Systems, Man And Cybernetics Part B, Cybernetics</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>8.IEEE Transactions On Systems, Man And Cybernetics Part B, Cybernetics</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_542">
+        <dc:title>9.IEEE Transactions on Fuzzy Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>9.IEEE Transactions on Fuzzy Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>9.IEEE Transactions on Fuzzy Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>9.IEEE Transactions on Fuzzy Systems</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_543">
+        <dc:title>10.Knowledge-Based Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>10.Knowledge-Based Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>10.Knowledge-Based Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>10.Knowledge-Based Systems</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_544">
+        <dc:title>11.	Applied Soft Computing</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>11.	Applied Soft Computing</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>11.	Applied Soft Computing</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>11.	Applied Soft Computing</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_545">
+        <dc:title>12.Neurocomputing</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>12.Neurocomputing</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>12.Neurocomputing</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>12.Neurocomputing</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_546">
+        <dc:title>13.AAAI Conference on Artificial Intelligence</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>13.AAAI Conference on Artificial Intelligence</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>13.AAAI Conference on Artificial Intelligence</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>13.AAAI Conference on Artificial Intelligence</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_547">
+        <dc:title>14.	Neural Networks</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>14.	Neural Networks</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>14.	Neural Networks</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>14.	Neural Networks</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_548">
+        <dc:title>15.arXiv Neural and Evolutionary Computing (cs.NE)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>15.arXiv Neural and Evolutionary Computing (cs.NE)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>15.arXiv Neural and Evolutionary Computing (cs.NE)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>15.arXiv Neural and Evolutionary Computing (cs.NE)</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_549">
+        <dc:title>16.	arXiv Artificial Intelligence (cs.AI)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>16.	arXiv Artificial Intelligence (cs.AI)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>16.	arXiv Artificial Intelligence (cs.AI)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>16.	arXiv Artificial Intelligence (cs.AI)</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_550">
+        <dc:title>17.	Engineering Applications of Artificial Intelligence</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>17.	Engineering Applications of Artificial Intelligence</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>17.	Engineering Applications of Artificial Intelligence</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>17.	Engineering Applications of Artificial Intelligence</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_551">
+        <dc:title>18.	International Joint Conference on Artificial Intelligence (IJCAI)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>18.	International Joint Conference on Artificial Intelligence (IJCAI)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>18.	International Joint Conference on Artificial Intelligence (IJCAI)</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>18.	International Joint Conference on Artificial Intelligence (IJCAI)</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_552">
+        <dc:title>19.	Neural Computing and Applications</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>19.	Neural Computing and Applications</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>19.	Neural Computing and Applications</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>19.	Neural Computing and Applications</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_553">
+        <dc:title>20.Robotics and Autonomous Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>20.Robotics and Autonomous Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>20.Robotics and Autonomous Systems</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>20.Robotics and Autonomous Systems</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_484">
+        <dc:title>3.Thesis</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.Thesis</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_483">
+        <dc:title>4.Lab</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.Lab</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_481">
+        <dc:title>5.Subject</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.Subject</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_485">
+        <dc:title>6.Test</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>6.Test</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_486">
+        <dc:title>7.MagazineArticle</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>7.MagazineArticle</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_487">
+        <dc:title>9.Others</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>9.Others</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_474">
+        <dc:title>C.Book</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_488"/>
+        <dcterms:hasPart rdf:resource="#collection_489"/>
+        <dcterms:hasPart rdf:resource="#collection_490"/>
+        <dcterms:hasPart rdf:resource="#collection_491"/>
+        <dcterms:hasPart rdf:resource="#collection_492"/>
+        <dcterms:hasPart rdf:resource="#collection_493"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_488">
+        <dc:title>1.Selectbook</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.Selectbook</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_489">
+        <dc:title>2.Buyrecord</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.Buyrecord</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_490">
+        <dc:title>3.Booklists</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_594"/>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.Booklists</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_594"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_594">
+        <dc:title>运营</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>运营</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>运营</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_491">
+        <dc:title>4.Studyroom</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.Studyroom</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_492">
+        <dc:title>5.Ebook</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.Ebook</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_493">
+        <dc:title>9.others</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>9.others</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_475">
+        <dc:title>D.MyPub</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_494"/>
+        <dcterms:hasPart rdf:resource="#collection_495"/>
+        <dcterms:hasPart rdf:resource="#collection_496"/>
+        <dcterms:hasPart rdf:resource="#collection_497"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_494">
+        <dc:title>1.Essays</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.Essays</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_495">
+        <dc:title>2.Book</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.Book</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_496">
+        <dc:title>3.Publications</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.Publications</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_497">
+        <dc:title>9.Others</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>9.Others</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_476">
+        <dc:title>E.Media</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_498"/>
+        <dcterms:hasPart rdf:resource="#collection_499"/>
+        <dcterms:hasPart rdf:resource="#collection_500"/>
+        <dcterms:hasPart rdf:resource="#collection_501"/>
+        <dcterms:hasPart rdf:resource="#collection_502"/>
+        <dcterms:hasPart rdf:resource="#collection_503"/>
+        <dcterms:hasPart rdf:resource="#collection_504"/>
+        <dcterms:hasPart rdf:resource="#collection_505"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_498">
+        <dc:title>1.VideoRecording</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.VideoRecording</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_499">
+        <dc:title>2.AudioRecording</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.AudioRecording</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_500">
+        <dc:title>3.RadioBroadcast</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.RadioBroadcast</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_501">
+        <dc:title>4.ArtWork</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.ArtWork</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_502">
+        <dc:title>5.Film</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.Film</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_503">
+        <dc:title>6.Map</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>6.Map</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_504">
+        <dc:title>7. TVBroadcast</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>7. TVBroadcast</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_505">
+        <dc:title>9.Other</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>9.Other</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_477">
+        <dc:title>F.Work</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_506"/>
+        <dcterms:hasPart rdf:resource="#collection_507"/>
+        <dcterms:hasPart rdf:resource="#collection_508"/>
+        <dcterms:hasPart rdf:resource="#collection_509"/>
+        <dcterms:hasPart rdf:resource="#collection_510"/>
+        <dcterms:hasPart rdf:resource="#collection_511"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_506">
+        <dc:title>1.Case</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.Case</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_507">
+        <dc:title>2.OpenSourse</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.OpenSourse</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_508">
+        <dc:title>3.Patent</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.Patent</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_509">
+        <dc:title>4.Presentation</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.Presentation</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_510">
+        <dc:title>5.Report</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.Report</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_511">
+        <dc:title>6.Statute</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>6.Statute</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_478">
+        <dc:title>G.Net</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_512"/>
+        <dcterms:hasPart rdf:resource="#collection_513"/>
+        <dcterms:hasPart rdf:resource="#collection_514"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_512">
+        <dc:title>1.BlogPost</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.BlogPost</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_513">
+        <dc:title>2.DictionaruEntry</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.DictionaruEntry</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_514">
+        <dc:title>3.EncyclopediaArticle</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.EncyclopediaArticle</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_479">
+        <dc:title>H.Personal</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_515"/>
+        <dcterms:hasPart rdf:resource="#collection_516"/>
+        <dcterms:hasPart rdf:resource="#collection_517"/>
+        <dcterms:hasPart rdf:resource="#collection_518"/>
+        <dcterms:hasPart rdf:resource="#collection_519"/>
+        <dcterms:hasPart rdf:resource="#collection_520"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_515">
+        <dc:title>1.Bill</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>1.Bill</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_516">
+        <dc:title>2.Email</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>2.Email</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_517">
+        <dc:title>3.Letter</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>3.Letter</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_518">
+        <dc:title>4.InstantMessage</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>4.InstantMessage</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_519">
+        <dc:title>5.Manuscript</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>5.Manuscript</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_520">
+        <dc:title>6.Friend</dc:title>
+        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
+        <dc:title>6.Friend</dc:title>
+    </z:Collection>
+</rdf:RDF>
